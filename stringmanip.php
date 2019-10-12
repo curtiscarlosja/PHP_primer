@@ -17,7 +17,7 @@
         $phrase1 = "is a ace php programer";
         $IDnum = '1500175993';
         $name = "Carlos Curtis";
-        echo $phrase1 . ", named Tiffany, ". $IDnum;
+        echo $phrase1 . ", named Carlos, ". $IDnum;
         echo '<br/>';
         echo '<hr/>';
         //String tansformation
